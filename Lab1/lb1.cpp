@@ -26,7 +26,7 @@ int main()
             n /= 2;             // chia lấy nguyên
             res.push(temp);
         }
-        cout << "8-bit: ";
+        cout << "10-bit: ";
         for(int i = 0; i < 10 - res.size(); i++)
             cout << "0";
         while(!res.empty())
@@ -47,7 +47,7 @@ int main()
                 res.push(0);
         }
         string s = "";
-        cout << "8-bit: ";
+        cout << "10-bit: ";
         for(int i = 0; i < 10 - res.size(); i++)
             s+= "1";
         while(!res.empty())
