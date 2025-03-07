@@ -1,0 +1,6 @@
+CPU làm gì? Bộ nhớ chính làm gì?
+- Bộ nhớ chính là nơi chứa chương trình đang thực hiện
+- CPU là thành phần điều khiển hoạt động máy tính và sử lý dữ liệu
+
+Tại sao chỉ dừng ở bộ sử lý 64bits mà không lên 128bits, 256bits?
+- Xử lý bao nhiêu bits sẽ liên quan đến độ dài của dữ liệu ví dụ 8bits là 2^8 = 256 dữ liệu khác nhau, 16bits = 2^16, 2^32 tương đương với 4 tỷ dữ liệu khác nhau, 64bits = 2^32 * 2*32
